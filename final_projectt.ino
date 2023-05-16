@@ -5,8 +5,8 @@
 
 float dis , duration;
 
-const char *ssid = "Redmi 9";
-const char *password = "mernaalaa123";
+const char *ssid = "Michael Emil";
+const char *password = "0123456789";
 
 const char* host = "maker.ifttt.com";
 const char* apiKey = "p0gFxtfnYkHQP_nCdtTJgNRoJOGlbclJmXH-V2K48kX";
